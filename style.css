@@ -21,3 +21,7 @@ body {
     height: 250px;
     object-fit: cover;
 }
+
+.cart-badge{
+    font-size: 14px;
+}
